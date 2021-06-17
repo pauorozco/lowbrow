@@ -1,0 +1,87 @@
+@charset "UTF-8"
+
+.log{
+	width: 150px;
+	padding: 0px 0px;
+}
+#twoa{
+	height: 50px;
+	width: 50px;
+}
+.tituloCab{
+	font-family: 'Dancing Script', cursive;
+	display: inline-flex;
+}
+#obras{
+	color: white;
+	float: center;
+}
+#p1{
+	text-align: center;
+}
+#img1{
+	width: 661px;
+	height: 350px;
+}
+.carousel-item{
+	height: 90%;
+}
+.concepto{
+	background: #fff, opacity: ;
+
+}
+.accordion{
+	margin-left: 30px; 
+	width: 95%;
+}
+#representantes, #obras, #concepto, .lead{margin-left: 25px; }
+.card{
+	width: 600px;
+}
+#img1{
+	width: 600px;
+}
+#letrero{
+	color: white;
+}
+.h11{
+	text-align: center;
+	font-family: Courier New;
+	color: black;
+}
+body{
+	background: rgb(63,0,115);
+	background: linear-gradient(90deg, rgba(63,0,115,1) 0%, rgba(56,130,133,1) 50%, rgba(56,57,133,1) 100%);
+}
+#iniciobody{
+	color: white;
+}
+footer{
+	height: 100px;
+	background-color: #000000;
+	text-align: center;
+	padding: 10px;
+}
+footer p{
+	color: #fff;
+	font-size: 15px;
+}
+h3{
+	text-align: center;
+}
+#pp{
+	text-align: center;
+}
+#pp1{
+	text-align: center;
+	font-size: 50px;
+	font-family: Courier New;
+}
+#h1negro{
+	font-size: 100px;
+	color: black;
+}
+#h1blanco{
+	font-size: 100px;
+	color: #ffffff;
+}
